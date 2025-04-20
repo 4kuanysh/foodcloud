@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: foodcloud
+    datasource: 
+        generate-unique-name: false
+        name: foodcloud
